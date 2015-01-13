@@ -1,9 +1,12 @@
 <html>
   <head>
-  <title> This is my first HTML page </title>
+  <title> TODOe </title>
   </head>
   
   <body>
-  <h1> my FIRST HTML PAGE </h1>
+  1. Bash
+  2. Emacs/Vim/IDE
+  3. Algorithms
+  4. TODO
   </body>
 </html>
